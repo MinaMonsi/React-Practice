@@ -1,11 +1,10 @@
 import './App.css';
+import Bio from "./components/Bio";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        
-      </header>
+    <div className="container">
+      <Bio />
     </div>
   );
 }

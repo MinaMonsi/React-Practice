@@ -1,11 +1,7 @@
-.App {
+.container {
+  color: white;
+  background: rgba(26, 27, 33, 1);
   text-align: center;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
 }
 
 .App-header {
@@ -17,4 +13,13 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+
+body {
+  width: 550px;
+  height: 868px;
+  left: 65px;
+  top: 53px;
+
+  background: #23252c;
 }
