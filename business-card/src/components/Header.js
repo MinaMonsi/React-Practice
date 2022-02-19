@@ -3,14 +3,12 @@ import Mina from "../images/Mina.JPG";
 
 function Header() {
     return (
-       
         <header className="header" > 
-            <img className="main-img" src={Mina} alt="bio pic" />
+            <img className="header-img" src={Mina} alt="bio pic" />
             <h1>Marina Monsivais</h1>
-            <h3>Frontend Developer</h3>
+            <h3 className="jobTitle">Frontend Developer</h3>
             <p>minamonsi@me.com</p>
-
-           
+ 
         </header>
     )
 }

@@ -2,7 +2,7 @@ import React from "react";
 
 function Bio(){
     return(
-        <main>
+        <main className="bio">
             <h1> About</h1>
             <p> I'm a frontend developer with an interest for design. I try to keep up with best practice and I'm always looking for ways to improve and increase my coding skills. </p> 
             

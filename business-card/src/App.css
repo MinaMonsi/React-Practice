@@ -2,16 +2,15 @@
   color: white;
   background: rgba(26, 27, 33, 1);
   text-align: center;
-  padding-top: 44px;
 }
 
-.main-img {
+.header-img {
   height: 500px;
   width: 320px;
-  border-radius: 10px 10px, 0px, 0px;
+  /* border-radius: 0px 20px, 0px, 20px; */
 }
 
-.App-header {
+.header {
   background-color: rgba(26, 27, 33, 1);
   min-height: 100vh;
   display: flex;
@@ -22,12 +21,13 @@
   color: white;
 }
 
+.bio {
+  padding: 0px 30px 40px 30px;
+  text-align: justify;
+}
+
 body {
   width: 550px;
-  height: 868px;
-  left: 65px;
-  top: 53px;
-
   background: #23252c;
 }
 
@@ -40,7 +40,6 @@ footer {
 
 .logos {
   display: inline-block;
-  padding-top: 20px;
-  padding-left: 1em;
-  padding-right: 1em;
+  /* Padding value order: top, right, bottom left */
+  padding: 20px 1em 0px 1em;
 }
