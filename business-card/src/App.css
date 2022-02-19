@@ -36,4 +36,6 @@ footer {
   display: inline-block;
   /* Padding value order: top, right, bottom left */
   padding: 1em 1em 0em 1em;
+  width: 30px;
+  height: 30px;
 }
