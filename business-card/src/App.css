@@ -7,17 +7,11 @@
 .header-img {
   height: 500px;
   width: 320px;
-  /* border-radius: 0px 20px, 0px, 20px; */
+  border-radius: 20px 20px, 0px, 0px;
 }
 
 .header {
   background-color: rgba(26, 27, 33, 1);
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
   color: white;
 }
 
@@ -41,5 +35,5 @@ footer {
 .logos {
   display: inline-block;
   /* Padding value order: top, right, bottom left */
-  padding: 20px 1em 0px 1em;
+  padding: 1em 1em 0em 1em;
 }
