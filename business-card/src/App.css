@@ -15,6 +15,10 @@
   color: white;
 }
 
+.jobTitle {
+  color: salmon;
+}
+
 .bio {
   padding: 0px 30px 40px 30px;
   text-align: justify;
