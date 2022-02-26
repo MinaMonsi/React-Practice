@@ -13,9 +13,10 @@ function Footer(){
             <a href=" https://www.facebook.com/marina.perez.9028">
             <img className="logos" src={Facebook} alt="Facebook logo" />
             </a>
-            <a href="#"></a>
-            <img className="logos" src={Instagram} alt="Instagram logo" />
             <a href="https://www.instagram.com/minamonsi/">
+            <img className="logos" src={Instagram} alt="Instagram logo" />
+            </a>
+            <a href="https://github.com/MinaMonsi">
             <img className="logos" src={GitHub} alt="GitHub logo" />
             </a>    
         </footer>
