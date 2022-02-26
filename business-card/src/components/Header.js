@@ -8,6 +8,7 @@ function Header() {
             <h1>Marina Monsivais</h1>
             <h3 className="jobTitle">Frontend Developer</h3>
             <p>minamonsi@me.com</p>
+            
  
         </header>
     )
