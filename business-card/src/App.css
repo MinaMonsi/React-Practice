@@ -5,12 +5,13 @@
 }
 
 .header-img {
-  height: 500px;
-  padding-top: 50px;
-  width: 320px;
+  height: 550px;
+  width: 550px;
   border-radius: 20px 20px, 0px, 0px;
 }
-
+header {
+  margin-top: 200px;
+}
 .header {
   background-color: rgba(26, 27, 33, 1);
   color: white;
@@ -27,15 +28,15 @@
 
 body {
   width: 550px;
+  /* centers business card */
   margin: auto;
-
   background: #23252c;
 }
 
 footer {
-  height: 70px;
+  height: 80px;
   left: 116px;
-  /* top: 760px; */
+  margin-bottom: 100px;
   background: #161619;
 }
 

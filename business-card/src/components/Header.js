@@ -1,5 +1,5 @@
 import React from "react";
-import Mina from "../images/Mina.JPG";
+import Mina from "../images/Mina.png";
 
 function Header() {
     return (
