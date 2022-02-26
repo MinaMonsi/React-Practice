@@ -6,6 +6,7 @@
 
 .header-img {
   height: 500px;
+  padding-top: 50px;
   width: 320px;
   border-radius: 20px 20px, 0px, 0px;
 }
@@ -24,15 +25,21 @@
   text-align: justify;
 }
 
+.card-container {
+  align-content: center;
+}
+
 body {
   width: 550px;
+  margin: auto;
+
   background: #23252c;
 }
 
 footer {
   height: 70px;
   left: 116px;
-  top: 760px;
+  /* top: 760px; */
   background: #161619;
 }
 

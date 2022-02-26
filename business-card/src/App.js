@@ -6,9 +6,12 @@ import Footer from './components/Footer';
 function App() {
   return (
     <div className="container">
+
+    <div className='card-container'>
       <Header />
       <Bio />
       <Footer />
+      </div>
     </div>
   );
 }
