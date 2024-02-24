@@ -8,7 +8,7 @@ function Header() {
         <header className="header" > 
             <img className="header-img" src={Mina} alt="bio pic" />
             <h1>Marina Monsivais</h1>
-            <h3 className="jobTitle">Frontend Developer</h3>
+            <h3 className="jobTitle">Choir Director</h3>
             <p>minamonsi.com</p>
 
         <Buttons />
